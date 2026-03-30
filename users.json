@@ -1,0 +1,27 @@
+{
+    "admin": {
+        "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+        "name": "Admin User",
+        "role": "Admin"
+    },
+    "shafiya": {
+        "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "name": "shaik shafiya",
+        "role": "Student"
+    },
+    "Ramya": {
+        "password": "d4a0da3be4b73787701122a01b5ddce4056ed9477659dab857b5c4e829c43e56",
+        "name": "Ramya Sai Lakshmi D",
+        "role": "User"
+    },
+    "Admin@1234": {
+        "password": "62c3d6bbdb8a80572862a8b75af8d03e36e6fe115b23407f312e4e5031617dad",
+        "name": "Admin",
+        "role": "User"
+    },
+    "DRSL": {
+        "password": "62c3d6bbdb8a80572862a8b75af8d03e36e6fe115b23407f312e4e5031617dad",
+        "name": "Ramya Sai Lakshmi D",
+        "role": "User"
+    }
+}
